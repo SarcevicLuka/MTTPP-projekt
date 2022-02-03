@@ -15,7 +15,7 @@ ___
 
 1. Skinuti Visual Studio (u mom slučaju to je Visual Studio 2017)
 2. Skinuti preglednike [Chrome](https://www.google.com/chrome/?brand=BNSD&gclid=CjwKCAiAl-6PBhBCEiwAc2GOVOSiJs6dJGbigW5BcB1m_fl6wMU9rH_xbtAlN-loKmx3Cigaey4UfhoCbD4QAvD_BwE&gclsrc=aw.ds) i [Firefox](https://www.mozilla.org/hr/firefox/new/)
-3. Skinuti [chromedriver](https://chromedriver.chromium.org/downloads) i staviti ga u odabranu mapu. Driver mora biti iste verzije kao Vaš Chrome preglednik da testiranje ispravno radi. Ako želite pokrenuti moje testove driver postavite u mapu **Drivers** na **C disku**
+3. Skinuti [chromedriver](https://chromedriver.chromium.org/downloads) i staviti ga u odabranu mapu. Driver mora biti iste verzije kao Vaš Chrome preglednik da testiranje ispravno radi. Ako želite pokrenuti moje testove driver postavite u mapu **Drivers/Chrome** na **C disku**
 4. Kreirati novi projekt u Visual Studiu: 
 **File -> New -> Project -> Templates -> Visual C# -> Test -> Unit Test Project**
 5. Putem **Project -> Manage NuGet Packages** dodati:
